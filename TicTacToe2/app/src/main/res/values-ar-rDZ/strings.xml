@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="creation">"هذا التطبيق تم من طرف  "</string>
+    <string name="name1">بوكرنافة زكرياء</string>
+    <string name="name2">لهباب محمد</string>
+    <string name="name3">بوشيبة نزيهة</string>
+    <string name="teacher_name">السيدة زواقي</string>
+</resources>

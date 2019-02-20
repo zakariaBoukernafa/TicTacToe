@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="creation">This App is created by :</string>
+    <string name="name1">Zakaria Boukernafa </string>
+    <string name="name2">Mhamed Lehbab </string>
+    <string name="name3">Naziha Bouchiba </string>
+    <string name="name4">Imen roumane</string>
+    <string name="teacher_name">Mme Zouagi</string>
+
+
+</resources>

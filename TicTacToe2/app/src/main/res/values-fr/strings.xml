@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="creation">Ce application est crée par :</string>
+    <string name="name1">Zakaria boukernafa</string>
+    <string name="name2">Mohamed Lehabab</string>
+    <string name="name3">Naziha Bouchiba</string>
+    <string name="teacher_name">Mme Zouagi</string>
+</resources>
